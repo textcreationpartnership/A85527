@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The grand rebels detected or, the Presbyter unmasked. Shewing to all loyal hearts, who were the first founders of the Kings Majesties ruine, and Englands misery, under the pretence of reformation, who in truth have proved the instruments of destruction both to church &amp; kingdom. By a lover of his countrey, whose design is to undeceive the deceived, make known the deceivers, and himself also in convenient season.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85527</idno>
+            <idno type="STC">Wing G1511</idno>
+            <idno type="STC">Thomason E1019_13</idno>
+            <idno type="STC">ESTC R208312</idno>
+            <idno type="EEBO-CITATION">99867273</idno>
+            <idno type="PROQUEST">99867273</idno>
+            <idno type="VID">119578</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85527)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119578)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1019[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The grand rebels detected or, the Presbyter unmasked. Shewing to all loyal hearts, who were the first founders of the Kings Majesties ruine, and Englands misery, under the pretence of reformation, who in truth have proved the instruments of destruction both to church &amp; kingdom. By a lover of his countrey, whose design is to undeceive the deceived, make known the deceivers, and himself also in convenient season.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "April. 2".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Puritan Revolution, 1642-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119578:1" rendition="simple:additions"/>
+            <p>The Grand REBELS DETECTED. OR, THE PRESBYTER UNMASKED.</p>
+            <p>Shewing to all Loyal Hearts, Who were the firſt Founders of the Kings Majeſties ruine, and <hi>Englands</hi> Miſery, un<g ref="char:EOLhyphen"/>der the pretence of <hi>Reformation,</hi> who in truth have proved the Inſtruments of Deſtru<g ref="char:EOLhyphen"/>ction both to Church &amp; Kingdom.</p>
+            <p>By a Lover of his Countrey, whoſe deſign is to undeceive the deceived, make known the deceivers, and himſelf alſo in convenient ſeaſon.</p>
+            <q>
+               <p>A divine ſentence is in the lips of the King, his mouth tranſgreſſeth not in judge<g ref="char:EOLhyphen"/>ment,</p>
+               <bibl>Prov. 16.10.</bibl>
+            </q>
+            <q>
+               <p>Shall even he that hateth Right, govern? and wilt thou condemn him that is moſt juſt? Is it fit to ſay to a King, Thou art wicked; and unto Princes, Ye are un<g ref="char:EOLhyphen"/>godly,</p>
+               <bibl>Iob 24.17, 18.</bibl>
+            </q>
+            <q>
+               <p>The fear of a King, is as the roaring of a Lyon; whoſo provoketh him to anger, ſinneth againſt his own ſoul,</p>
+               <bibl>Prov 20.2.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the year, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:119578:2"/>
+            <head>The Grand Rebels detected.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the thirteenth year of the Reign of our moſt gracious Soveraign Lord, King <hi>CHARLES</hi> of bleſſed memory, His moſt excellent Majeſty out of the great deſire he had to maintain and preſerve peace and unity among His good Sub<g ref="char:EOLhyphen"/>jects in all His Dominions, and through His Holy and Pious In<g ref="char:EOLhyphen"/>clinations endeavouring to advance the Proteſtant Religion by promoting unity and purity in the holy Church, was willing to ſettle and eſtabliſh Uniformity of Worſhip and Government therein, as wel in <hi>Scotland</hi> as <hi>England;</hi> and in order thereunto, did by the advice of the reverend Learned Fathers and Biſhops of the Church, Order and Appoint, That the Liturgy, Book of Canons, with all the form of Worſhip and Government u<g ref="char:EOLhyphen"/>ſed in the Church of <hi>England,</hi> ſhould be read, practiſed and obſerved by the Church of <hi>Scotland;</hi> and that the Government of that Church ſhould be that moſt ancient and ſacred Govern<g ref="char:EOLhyphen"/>ment of Biſhops.</p>
+            <p>But the Presbyters there, the Fathers of rebellion, contemns the Kings Commands, refuſe to yeild obedience to his Majeſties Decrees in this matter, and in contempt of his Soveraign Au<g ref="char:EOLhyphen"/>thority, rejects the Book of Canons and Liturgy, and confronts the Holy Fathers and Biſhops ſent by him to take the Care, Charge and Government of that Church; an Indignity never to be forgotten. Hnd here you have the beginning of our wo<g ref="char:EOLhyphen"/>ful troubles, and alſo the primitive Authors thereof, whom I in<g ref="char:EOLhyphen"/>tend to trace all through, til you ſee what conſequences did en<g ref="char:EOLhyphen"/>ſne; For this traytorous Fa&amp;ion did not ſtop here, but preſent<g ref="char:EOLhyphen"/>ly enters into an Engagement, and ſwears his Majeſties Subjects into a confederacy againſt their Leige Lord, raiſeth Tumults. and takes up Arms againſt their King, and thereby neceſſitates
+<pb n="3" facs="tcp:119578:2"/>His Majeſty to raiſe an Army in <hi>England</hi> at no ſmall Charge, with which the King marches for <hi>Scotland</hi> in <hi>March,</hi> 1659. Wheaenpon the <hi>Scots</hi> deſire a Treaty, and his Majeſty being willing to avoid bloodſhed, condeſcended, and gave tearms too good for falſe Rebels, and ſo a peace was concluded, and the King returns for <hi>England,</hi> and came to his Houſe at <hi>Cleoballs,</hi> about <hi>Auguſt,</hi> 1639. In <hi>December</hi> following this diſloyal Pres<g ref="char:EOLhyphen"/>byterified, never to be truſted <hi>Scot,</hi> calls a Parliament, to con<g ref="char:EOLhyphen"/>ſult how they might the more ſubtilly carry on their treacher<g ref="char:EOLhyphen"/>ous deſigns, and holding correſpondence with ſome Factious follows in <hi>England</hi> of their own ſtamp, whom nothing will ſa<g ref="char:EOLhyphen"/>tisfie unleſs they may reign over, and rule both King and Peo<g ref="char:EOLhyphen"/>ple, as a Poet of their own confeſſeth, <hi>Knox</hi> in his Hiſtory of the Church of <hi>Scotland,</hi> firſt impreſſion in Octavo, pag. 265. ſaith, <hi>That wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hout the Reformation which they deſired, they</hi> (mea<g ref="char:EOLhyphen"/>ning the Covenanters) <hi>would never be ſubject to any mortal man.</hi> Thus you ſee their principles is, that they muſt have what they pleaſe, or elſe farewel all ſubjection. Are not theſe ſad ſubjects for a Prince? Let the Reader conſider it wel.</p>
+            <p>In the year 1640. about <hi>November</hi> the Kings Majeſty calls a Parliament in <hi>England,</hi> (to his ſorrow;) for the Presbyters in <hi>Scotland</hi> combining with their Brethren in <hi>England,</hi> ſo mana<g ref="char:EOLhyphen"/>ged their buſineſs, that the Majority of this Parliament were <hi>Scotified;</hi> and being met, they immediately begin to pick holes in the Coats, and to accuſe of Treaſon his Majeſties moſt faith<g ref="char:EOLhyphen"/>ful and confiding friends, as the Noble Earl of <hi>Stafford,</hi> and o<g ref="char:EOLhyphen"/>thers; and preſently began to lay hold of the Kings Royal Pre<g ref="char:EOLhyphen"/>rogative, as the Militia of the Nation, His onely Security, and his Negative Voice, telling the King that they were the Supream Authority of the Nation; they alſo perſwaded the King to paſs an Act that they ſhould not be diſſolved without their own con<g ref="char:EOLhyphen"/>ſent: By this time theſe loyal Rebels began to ſhew themſelves in <hi>England,</hi> the Miniſters ſtirred up the people againſt the Biſh<g ref="char:EOLhyphen"/>ops, to the endangering of their Lives; and the Parliament and others (eſpecially the Miniſters) were reſtleſs until they had gotten the Lords ſpiritual thrown out of the Lords Houſe, thereby to weaken his Majeſties hands, and to ſtrengthen their own, for the better accompliſhing their wicked Enterpriſes
+<pb n="4" facs="tcp:119578:3"/>againſt his Majeſtie, and his Royal family.</p>
+            <p>Their next ſtep of Rebellion was to Jurage the people, and make them tumultuous, under pretence of Petitioning; (Trea<g ref="char:EOLhyphen"/>ſon carried on by fair pretences) and by theſe tumults his Ma<g ref="char:EOLhyphen"/>jeſtys Sacred Perſon was much indangered, that he could not be ſafe about the City (when Cities grow rich and populous, they are apt to rebell) but was forced to leave it, and raiſe a few forces for the ſafety and defence of his own perſon: Here<g ref="char:EOLhyphen"/>upon the Parlament, glad of ſuch an occaſion, raiſed an Army in their own defence (as they ſay) but moſt apparent it was to oppoſe his Majeſty. Twelve of the Reverend Fathers and Biſhops of the Church accuſed of Treaſon; ſome of them their lives taken away, and the Government of the Church over<g ref="char:EOLhyphen"/>thrown, contrary to the proteſtation taken by the Parlament, <hi>May</hi> 15, 1641. to which I refer you.</p>
+            <p>The Parlament having raiſed an Army voted <hi>Eſſex</hi> General: the King then ſet up his Standard, and invited his Loyal Sub<g ref="char:EOLhyphen"/>jects to his aſſiſtance againſt theſe Rebels, and their Army, who they told us were to fight for King, and Parlament; Oh wret<g ref="char:EOLhyphen"/>ched hypocriſie; unleſs by fighting for the King, they mean fighting to take away his life (and that's fighting for him with a witneſs) a <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I hope his Majeſty that now is, will beware of ſuch friends.</p>
+            <p>I had almoſt omitted one paſſage which ſhould have been mentioned before; and that was, the King demanded five fire<g ref="char:EOLhyphen"/>brands out of the Houſe, for fear leaſt they ſhould have ſet the Houſe on fire, but ſo much had this zealous faction preva<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>led, and their devotion was ſuch, that they had rather be burned with them, then throw them out to be quenched. I need not name them, ſome of them are gone to their place, where no doubt they have received the wages of their work: there are onely two that I know) remain, whom God hath reſerved for examples of juſtice, that others may learn better obedience for future, and theſe will be eaſily known; one is Biſhop of <hi>Dur<g ref="char:EOLhyphen"/>ham, r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tempo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> and the other St. <hi>D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uz;</hi> forget not their good ſervice, they are worthy perſons, and their ſervices for their Country ſuch as deſerve to be recorded for the benefit of future ages, they are like to be very little beneficial to this.</p>
+            <pb n="5" facs="tcp:119578:3"/>
+            <p>The next progreſs of theſe loyal ſubjects, or rebells, which you will, was, their Army being raiſed, the War begun, and his Majeſties faithful Subjects and Souldiers behaved themſelves ſtoutly, that the poor Rebells was many times well beaten, and prevailed little againſt their King, notwithſtanding Sir <hi>John's</hi> bleſſing of them; but yet the zealous fomentors of the Rebel<g ref="char:EOLhyphen"/>lion made all their Pulpits ring with curſing and banning the poor ignorant people and Apprentices: Oh, <hi>Curſe ye Meroz, curſe ye Meroz b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, becauſe he went not out <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Lord againſt the mighty:</hi> Thus they plainly made uſe <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> holy Scripture to ſtir up the Kings ſubjects againſt him, but had for<g ref="char:EOLhyphen"/>gotten, <hi>that rebellion is like the ſin of witchcraft;</hi> but carried all under fine pretences; and would make, as if God himſelf approved of their wicked waies; and their curſed and curſing Doctrine ſo terrified the minds of men, that they could neither live quiet in their houſes, nor ſleep quiet in their beds; but muſt forſake all loyaltie and duty, to fight againſt their Sove<g ref="char:EOLhyphen"/>raign Lord: blind zeal puts men upon unwarrantable practices.</p>
+            <p>And by this means their Armies was recruited, after they had been routed.</p>
+            <p>And what rare devices had the Rebells to ſupply themſelves with mony; they are excellent Doctors, and have a ſalve for every <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ar; an excellent faculty to preach Charity, every one muſt contribute ſo <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ething towards this hopeful Reformation; and therefore they ſtirred up the Citizens and others, to bring in their ſuperfluous Plate-rings, and Jewels, and mony and bid them believe on the <hi>Publick Faith</hi> for Security; here<g ref="char:EOLhyphen"/>by raiſing vaſte ſums of mony, which is well ſecured <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom the right owners, as ſafe as if it were in another world for<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> que<g ref="char:EOLhyphen"/>ſtion whether ever it will be paid in this: and very lately a grave <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the F<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ernity, in his Thankſgiving Sermon be<g ref="char:EOLhyphen"/>fore their Worſhips, moved them to remember to pay the Publick Faith; but I have not faith to believe they are ſo made as to take his counſel: it had been more welcome, and better acceptable advice, if he could have told them ſuch another trick to borrow more: but ſurely the people have bought more with then to lend them any; yet I have heard the City of <hi>London</hi> (the famous Nurſery of theſe Rebells formerly, I wiſh
+<pb n="6" facs="tcp:119578:4"/>it may become loyal now, but it is hard to truſt where once deceived) have lent them ſome; I wiſh poor Sequeſtred Di<g ref="char:EOLhyphen"/>vines could find ſo much Credit, or Charity amongſt them: however I am not without hope to have my right; for I do be<g ref="char:EOLhyphen"/>lieve, when his Majeſty is reſtored to his, we ſhal be reſtored to ours; in the mean time J know its not to be expected that the Diſciples ſhould fair better then their Lord. J ſhal now preſent you with a Combination of theſe Rebels both in <hi>England</hi> and <hi>Scotland;</hi> for now they diſcover openly what before they pra<g ref="char:EOLhyphen"/>ctiſed ſecretly: in the year 1643. they enter into Covenant, and ſwear a confederacy in cruelty and wickedneſs, it would be too tedious to repeat at large, J ſhal onely touch of things to refreſh our memories, and inform thoſe youth that are Loyal, and want a little information in theſe things; J will obſerve ſomething of their Covenant, that Scottiſh trick, to warn a<g ref="char:EOLhyphen"/>gainſt the ſnare of it: The firſt part is, That we ſhal ſincere<g ref="char:EOLhyphen"/>ly, really and conſtantly, through the Grace of God, endeavor in our ſeveral places and callings, the preſervation of Refor<g ref="char:EOLhyphen"/>med Religion in the Church of <hi>Scotland,</hi> in Doctrine, Worſhip, Diſcipline and Government, againſt our common enemies, &amp;c. where note; They ſwear the people to indeavour to preſerve the Doctrine, Worſhip, &amp;c. of <hi>Scotland,</hi> expreſly in terms, and ſo draw poor people into a ſnare; for I dare affirm, that three fiſts of the people of <hi>England</hi> that took this Covenant, knew not what the Doctrine, Worſhip, and Diſcipline of that Church was; and impoſſible it is for perſons to keep any En<g ref="char:EOLhyphen"/>gagement, when they know not what they are thereby obliged to; unfeſs they think they are bound to do whatever the Aſ<g ref="char:EOLhyphen"/>ſembly of Presbyters require them: And w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thout all peradven<g ref="char:EOLhyphen"/>ture a Prince muk needs be happy that hath ſuch ſubjects, eſpe<g ref="char:EOLhyphen"/>cially conſidering their Doctrine, I'le cite you a paſſage out of their own Author; <hi>The Commonalty ought to reform Religion, if the King will not;</hi> ſee <hi>Knox to the Commonalty,</hi> page 49, 50. A<g ref="char:EOLhyphen"/>gain, <hi>If Princes be Tyrants againſt God, and his Truth, their ſub<g ref="char:EOLhyphen"/>jects are freed from their Oaths of Allegiance,</hi> Knox to England and Scotland, <hi>folio</hi> 79.</p>
+            <p>But who do the Gentlemen mean by the common Enemies the people and they are ſworn to oppoſe? Surely they do not
+<pb n="7" facs="tcp:119578:4"/>mean his Majeſty, and the Learned Fathers the Biſhops, and all Divines and people that wil not bow down to their Baal, nor worſhip their new-erected Image, Presbyterie; yet the ſecond head in the Covenant ſmels as if this were that they intend, to which I refer you; For in that they ſwear, <hi>That wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hout reſpect of perſons they muſt endeavour the extirpation of Popery and Pre<g ref="char:EOLhyphen"/>lacy, that is</hi> (ſay they) <hi>Church-Government by Biſhops, Arch<g ref="char:EOLhyphen"/>biſhops, &amp;c.</hi> And ſo they make the people ſwear at all adven<g ref="char:EOLhyphen"/>tures againſt the Government of the Church of England eſta<g ref="char:EOLhyphen"/>bliſhed both by the Authority and Judgement of his Majeſty, the Learned Fathers of our Church; and this in direct oppoſi<g ref="char:EOLhyphen"/>tion to the Oath of Keligion and Supremacy: But this is no<g ref="char:EOLhyphen"/>thing, for according to their Doctrine, if the King be a Tyrant againſt God, the people are freed from all ſub<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ection; and they, <hi>viz.</hi> the Presbyters, muſt be Judges whether their King be a Ty<g ref="char:EOLhyphen"/>rant, yea or no; here is a High Court of Juſtice to trye and condemn all Kings and Princes that wil not ſubject to the Jron yoke of Presbytery.</p>
+            <p>Again, in the firſt Branch of their Covenant they ſwore to <hi>endeavour the preſervation of the Church of Scotland, and ar for<g ref="char:EOLhyphen"/>mation of the Church of England and Ireland, in Doctrine, Wor<g ref="char:EOLhyphen"/>ſhip, Diſcipline, &amp;c. according to the word of God, and the exam<g ref="char:EOLhyphen"/>ple of the beſt reformed Churches; and ſhall endeavour to bring the Charches of God in the three Nations, to the neareſt conjunction and uniformity, &amp;c:</hi> So that this clauſe doth ſeem to inſinuate, that the Churches of <hi>England</hi> and <hi>Ireland</hi> was unſound in Do<g ref="char:EOLhyphen"/>ctrine, and corrupt in Worſhip, Diſcipline, and Government; but theirs is <hi>Sanctum Sanctorum,</hi> and therefore to be preſerved, and be our pattern to reform by; and if their words import not thus much, then how doth their matter agree? For if <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland</hi> in their reformation according to the Scrip<g ref="char:EOLhyphen"/>tures, or from the example of any other Church better reform<g ref="char:EOLhyphen"/>ed then <hi>Scotland,</hi> exceed, and go beyond what the Church of <hi>Scotland</hi> now practice, yet by the Covenant that Church is to preſerved in Doctrine, Worſhip, Diſcipline and Government, as now it is; then how is it poſſible for the people by all their endeavours, to bring the Churches of God in the three King<g ref="char:EOLhyphen"/>doms to a conjunction and uniformity in Religion, Confeſsion
+<pb n="8" facs="tcp:119578:5"/>of Faith, form of Worſhip, Directory, Government, and Ca<g ref="char:EOLhyphen"/>techiſing? And do but make this obſervation, what good Sub<g ref="char:EOLhyphen"/>jects theſe are; they would not receive the form of Worſhip, Directory, &amp;c. appointed them by his Majeſty and the Biſhops, and yet would impoſe their inventions upon their Soveraign Lord, Biſhops and people; and the ſame ſpirit reigns amongſt their Brethren in England, as wil appear: and thus you ſee how by curſing and ſwearing they managed their ſtratagems; for one while they preached, <hi>Curſe ye Meroz;</hi> another while their Covenant; and ſo carried on their war againſt their King; and their valiant Champions was <hi>Eſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x,</hi> who manfully behaved him<g ref="char:EOLhyphen"/>ſelf in the Weſt; and <hi>Wall<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> at the Devizes with <hi>Haſlerigg;</hi> 'tis true, <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> is a worthy Gentleman and Souldier, whoſe merits ought not to be forgotten, for we have demonſtrated his Loy<g ref="char:EOLhyphen"/>alty to his Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſty at <hi>Worceſter,</hi> and ſince, <hi>B<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>w</hi> was another of their zealots, who out of his zeal in this Rebellious Cauſe, as I have often heard, and that by perſons that tell me they ſaw it; at <hi>Abing<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> he cauſed a man that had been a Rebell with him againſt his King, but repenting of his ſin, and accor<g ref="char:EOLhyphen"/>ding to his duty turning loyal to his Soveraign, was taken in his ſervice; for which that bloody Presbyter <hi>Brown</hi> cauſed him to loſe his life; it's affirmed that the Rope broke twice, as a teſti<g ref="char:EOLhyphen"/>mony of God's juſtifying the accuſed; but the blood-thirſty cauſed two ropes to be twiſted together, and never was ſatiſfi<g ref="char:EOLhyphen"/>ed till the man was hanged, though the man pleaded for his life, as alſo did many ſad ſpectators of that cruelty: and certainly if this ſin paſs unpuniſhed on earth by men, we may expect God will powr out his judgments on us here, and upon him hereafter.</p>
+            <p>After theſe had ingaged in the War, till their hearts failed, they like Cowards quit the field, and then in come ſome of ano<g ref="char:EOLhyphen"/>ther Faction; as, <hi>Fairfax, Cromwell, Harriſon,</hi> and <hi>Ireton,</hi> and they act their parts; but ſtill <hi>Curſe ye Meroz,</hi> was good do<g ref="char:EOLhyphen"/>ctrine in City and Country, until by the Warrs the Kings Ma<g ref="char:EOLhyphen"/>jeſty had loſt moſt of his Garriſons, his forces in a great mea<g ref="char:EOLhyphen"/>ſure deſtroied, and almoſt all wreſted out of his hands by trea<g ref="char:EOLhyphen"/>chery, and falſhood, and nothing but <hi>Oxford</hi> and a few other places left; his Majeſty reduced by theſe Rebels unto theſe ſtreights, ſlies unto <hi>Scotland,</hi> or at leaſt to the Scotch Army
+<pb n="11" facs="tcp:119578:5"/>(at <hi>Southw<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll,</hi> about <hi>May</hi> 1646.) and preſuming on their Loyalty, (which all things conſidered, he had little reaſon to do) yet hoping at laſt they would be engaged (by his Majeſties throwing himſelf into their hands) to become faithful unto him; but inſtead thereof their Miniſters charge him with the guilt of blood, yea all the blood of <hi>Ireland</hi> and <hi>England;</hi> and admoniſh him (as they eall it) all which his gracious Majeſty bare patiently, which no doubt could not but be a great affliction to a Prince to be inſulted over by ſuch Rabſhecaes, who having forgotten their own duty, con<g ref="char:EOLhyphen"/>demn his innocent Majeſty as if he had neglected his: But had theſe ſons of <hi>Belial</hi> never read that Text of St. <hi>Mat.</hi> 5.7. <hi>Thou hy<g ref="char:EOLhyphen"/>pocrite, firſt caſt out the beam out of thine own eye, &amp;c.</hi> and <hi>Job</hi> 24.17. <hi>Is it fit to ſay to a King, thou art wicked; and to Princes, ye are ungodly?</hi> I wil not ſay Sir <hi>John</hi> had never read theſe ſacred Scrip<g ref="char:EOLhyphen"/>tures; yet I much incline to think, they wilfully forgot them, as al<g ref="char:EOLhyphen"/>ſo the duty of ſubjection they owe to their Prince.</p>
+            <p>The Parliament demand the King of the <hi>Scots,</hi> and they de<g ref="char:EOLhyphen"/>mand money of the Parliament for their good ſervice and help in the Rebellious War, or a price for their Prince; the Parliament grant them the money, and they (Traytor's like) ſell their King as <hi>Iudas</hi> did his Chriſt, and to this day have not manifeſted ſo much repen<g ref="char:EOLhyphen"/>tance as <hi>Indas</hi> did; for he brought the money back to the High-Prieſts, who therewith bought the Potters Field to bury Strangers in; and if ever the falſe <hi>Scot</hi> (as I fear he never wil) return their mo<g ref="char:EOLhyphen"/>ney, it wil ſerve to buy a large field to bury them and their Brother Rebels in.</p>
+            <p>The King being thus ſold by the <hi>Scots,</hi> was brought to <hi>Hampton</hi> Court in 1647. from whence he got to the Iſle of Wight, where there was a treaty, in which the main things inſiſted on, was to keep down the Government of the Church thrown down by this Rebel<g ref="char:EOLhyphen"/>lion, and inſtead of the Government by Biſhops, the Presbyter muſt ſet up his Stool of Repentance for all Loyal Subjects; but this trea<g ref="char:EOLhyphen"/>ty was ſoon interrupted by another Faction ſprung up both in Par<g ref="char:EOLhyphen"/>liament and Army, who were children, the off ſpring of Presbyte<g ref="char:EOLhyphen"/>ry, though they like unnatural Fathers, diſown them, and ſay they are illegitimate; However we well know they are their Fathers, though we know not their Mothers; and this ſeems a greater my<g ref="char:EOLhyphen"/>ſtery then that of <hi>Merline</hi> the Welſh Prophet, whoſe Mother men knew, but not his Father; and indeed this is a Riddle, I leave the Readers to interpret.</p>
+            <pb n="10" facs="tcp:119578:6"/>
+            <p>Thus was our Lord and Soveraign brought to loſe precious life by the Fathers and the Children, as our Saviour by <hi>Pilate</hi> and the chief Prieſts: thus you have the raiſers, the riſe, and the manage<g ref="char:EOLhyphen"/>ment of this bloody Tragedy acted at White-hall Banqueting-Houſe, <hi>Ian.</hi> 30. 1648.</p>
+            <p>About this time ſome of the Presbyters ſeem diſpleaſed and diſ<g ref="char:EOLhyphen"/>ſatisfied, and ſpoke againſt the putting his Majeſty to death; ſo did <hi>Iudas</hi> when he ſaw his Lord condemned, and for ſorrow went and hanged himſelf, which a blinde man would be glad to ſee ſome of them do: And <hi>Fairfax</hi> declared againſt it, but he never endea<g ref="char:EOLhyphen"/>voured to hinder it; and <hi>Pilate</hi> did as much after he had condem<g ref="char:EOLhyphen"/>ned our Saviour, ſaid, he had nothing to do with him, he was a Juſt man; but alas! he ſuffered him to be crucified for all that; and to me its a queſtion whether the Presbyters trouble they ſeemed to ſhew, was out of reſpect and love to his majeſty, or for fear they had loſt their deſign of Svoeraignty which they hoped to have had by the treaty at Iſle of Wight; whether it was that the King loſt his life, or becauſe it was taken away by other hands as wel as theirs, and they thereby deprived of the ſole Honour of the Work, for ſuch traytors glory in their wicked ſucceſs; or what meant all their hypocritical dayes of thankſgiving for Victories againſt our Liege Lord.</p>
+            <p>But poſſibly they may think to excuſe their treaſon againſt the Father, by their kindneſs to his Son, and now our Soveraign, who I hope God wil preſerve from repoſing any truſt in them, leaſt he alſo fall by his Fathers Enemies: I ſhall ſet before the Reader my obſervations of theſe mens carriage of late, and leave the Judicious to judge whether their Love be true, loyal, or feigned for ſome ſelf ends:</p>
+            <p>
+               <hi>Iune</hi> 6. 1650. the <hi>Scots</hi> ſent for his Majeſty out of <hi>Holland,</hi> and would Crown him King, but upon conditions, and they ſuch as made his heart bleed within him; He muſt acknowledge to theſe traytors that his innocent Father was guilty of blood and many crimes which theſe horrid wretches was pleaſed to impute to him; and he muſt confeſs his ſin, his Fathers ſin, and the Families ſin, <hi>&amp;c.</hi> (and as it's reported, brought his Majeſty into their Stoole of Repentance, but I conceive this untrue, and therefore I paſs it) In<g ref="char:EOLhyphen"/>dignities many, and that moſt unſufferable and intollerable ones they put upon him; they are ſuch unworthy and deceitful people, that it's hard to ſay what they dare not do, as to force his Majeſty
+<pb n="11" facs="tcp:119578:6"/>to take Oaths and Covenants, what they pleaſe, or elſe give him up as they did his Father, to the ſlaughter: I ſhall here preſent to your view an Oath he was neceſſitated to take, which is as follows, <hi>viz.</hi>
+            </p>
+            <p>J <hi>Charles</hi> by the Grace of God King of <hi>Great Britain, France</hi> and <hi>Ireland,</hi> &amp;c. do aſſure and declare by my ſolemn Oath in the preſence of Almighty God, the ſearcher of all hearts, my allowance and ap<g ref="char:EOLhyphen"/>probation of the National Solemn League and Covenant, and faithful<g ref="char:EOLhyphen"/>ly oblige my ſelf to proſecute the ends thereof in my State and Calling, and that J for my ſelf and ſucceſſors ſhall conſent and agree to all Acts of Parliament enjoining the National Solemn League and Covenant, and fully eſtabliſh the Presbyterian Government; and that J ſhall give my Royal aſſent to all Acts and Ordinances of Parliament paſſed, or to be paſſed, injoining the ſame in my other Dominions; and that J ſhall obſerve theſe in my own Family, and ſhall never make oppoſition to the Presbyterian Government, or endeavour to make any change thereof.</p>
+            <p>This being done, they raiſed an Army for his aſſiſtance and defence, engaging they would indeavour to reſtore his majeſtie to all other his Dominions; but kept him that he muſt not converſe with his and his Fathers old friends that loſt all for them, and was forced to leave their Country for his ſake; neither would they ſuffer his Majeſty to prefer any of them in the Army, nor permit them to be of his Coun<g ref="char:EOLhyphen"/>cil; but Sir <hi>John</hi> and his Kirk-party muſt do all; govern their Gover<g ref="char:EOLhyphen"/>nor, and rule their Soveraign, who muſt do whatever their Royal plea<g ref="char:EOLhyphen"/>ſures are, elſe this Covenant is broken, at any time whenever they pleaſe to ſay it's broken, and his poor Majeſty expoſed to all dangers and cruelty; for all the people are freed from their Allegiance, when Maſs <hi>John</hi> tells them their King hath broken Covenant; ſo that they are worſe then the Pope, and their Doctrines as bad as <hi>Romes:</hi> and that this is the Presbyters opinion, I ſhall make a recital of a few pla<g ref="char:EOLhyphen"/>ces out of their own Authors; <hi>VVhittingham</hi> in his preface to <hi>Good<g ref="char:EOLhyphen"/>mans</hi> book, ſaith, <hi>That if Kings and Princes refuſe to reform Religion, the inferior Magiſtrates, or people, by the direction of the Miniſtry, might lawfully, and ought, if need require, even by force of Arms to reform it themſelves.</hi>
+            </p>
+            <p>
+               <hi>Buchanan</hi> in his Presbyterian Maximes, out of his Book intituled, <hi>De jure Regni,</hi> pag. 61. ſaith, <hi>Populus R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge, eſt praeſtant<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; melio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> the people are better then the King, and of greater authority.</p>
+            <p>Again, <hi>pag.</hi> 13. <hi>Populo ſus eſt, ut impertum cui velit deferat;</hi> the peo<g ref="char:EOLhyphen"/>ple have right to beſtow the Crown at their pleaſure. <hi>De Jure regni,</hi>
+               <pb n="12" facs="tcp:119578:7"/>pag. 25. <hi>P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncs populum eſt, ut leges ferat; ſunt reges veluti tabulariorum cuſtod<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s:</hi> I might bring plentiful proofs, but this with their practice is a full demonſtration of their Principles, which if they deny, their practice where ever they had power, is as famouſly known as the Ana<g ref="char:EOLhyphen"/>baptiſts of Germany, <hi>&amp;c.</hi> And as for all that ſhew of Loyalty now ſeeming to be in them unto his Majeſty, it is moſt manifeſt that it is out of ſelfiſh deſigns to advance their own intereſt, and upon no other ac<g ref="char:EOLhyphen"/>count; I am bold to affirm, that if he amongſt them all who pretends the Higheſt friendſhip to the King were asked whether he would have him come in his Royal Prerogative without ſhakles at his heels, and a Persbyter at his Elbow; if it were poſſible to make him ſpeak truth, he would ſay, Away with him, crucifie him; Do they not ſay they will fight againſt him rather then he ſhall come, and not eſtabliſh their way of Church. Government, &amp;c. which is an infringing of his Juſt Pre<g ref="char:EOLhyphen"/>rogative, and below his Royal Dignity and Soveraign Juriſdiction; 'tis true, they are willing he ſhould come, becauſe they are afraid of the Phanatique Sectaries, leaſt they ſhould overcome them; and therefore they have revived their Covenant by which they ſwore a Confedera<g ref="char:EOLhyphen"/>cy with their Brethren of Scotland againſt Epiſcopacy and Biſhops, the ancient Government of our Church; A Monarchy they are for, but it muſt be a limited Monarchy; a King they are for, but they muſt rule him, and the people too, elſe curſe ye <hi>Meroz,</hi> curſe him bitterly, &amp;c. Again, the King they are willing to have, but not his mother, Bro<g ref="char:EOLhyphen"/>ther, nor any other perſon that have been faithful to him, or may be ſerviceable if they prove falſe; and who dare truſt them? For all that is (as they iudge) below their Reformation, is Popery; and all a<g ref="char:EOLhyphen"/>bove it, Hereſie; when alas they themſelves are the grand Hereticks and Schiſmaticks in the Nation; it was they made the breach in, and brought all thoſe ſorrows and pains upon our mother the holy Church, and I wonder with what face theſe men think their ſin ſhould be either forgotten or forgiven without repentance, and a return from whence they are fallen.</p>
+            <p>
+               <hi>Is it imaginable that ſo ſober, vertuous, and pious a Prince as his Majeſty is, will change thoſe Principles of Religion he hath been brought up, and confirmed in by his Gracious and moſt Renowned Father, of bl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſsed memory, who ſuffered Martyrdom for it, and thereby ſealed to the truth of it with his precious blood. Neither let it be thought a Prince can be ſo, diſ ingenuous, or guilty of ſuch ingratitude, as to neglect his own, and his Father's Friends, for the favour of falſe Rebels;</hi> Prov 27 10. <hi>Thine own friend, and thy Father's friend, forgot not, &amp;c. This was the ſacred ſaying of a King, and not a King onely, but the wiſeſt of Kings.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
